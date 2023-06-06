@@ -1,7 +1,7 @@
 WRITE A BLOG BETWEEN DOCUMENT AND WINDOW
 
                                            DOCUMENT
-         SYNTAX: document.property_name;             
+         SYNTAX: document.property_name             
          * It Represents any HTML Document or Web page that is Loaded in browser
          * It is Loaded inside the Window
          * It is the Object of Window Property
@@ -12,7 +12,7 @@ WRITE A BLOG BETWEEN DOCUMENT AND WINDOW
            - can also be accessed by a window like this window document
 
                                              WINDOW
-         SYNTAX: window.property_name;
+         SYNTAX: window.property_name
          * It Represents a browser window or frame that displays the content of the webpages
          * it is the very first object that is loaded in the web browser
          * it is the object of the browser
